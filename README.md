@@ -22,11 +22,11 @@ There is still a lot for me to learn about 3DCG, any suggestion is appreciated!
   [ArtStation](artstation.com/tornier)  [Pixiv](pixiv.me/tornier) 
 
 -----
-## My Skills:
+## My Skills
 - Proficient: Anime Style Illustration(Photoshop, Painter Tool SAI, Clip Studio Paint, Procreate, etc.)
 - Intermediate: Graphic Design, Concept Art, Cinema 4D, Blender, Unity, UnrealEngine, C#, C++, Python, VRoid Studio
 - Beginner: Substance Painter, Marvelous Designer, ZBrush, AutoCAD, Revit
-## Contact:
+## Contact
 - Email: dwtornier@gmail.com
 - [Other Links](linktr.ee/tornier)
 <!--
