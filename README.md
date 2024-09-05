@@ -2,8 +2,8 @@
 # Profile  
 
  
-I am Tornier, an Illustrator trying to develop games.  
-There is still a lot for me to learn about 3DCG, any suggestion is appreciated!  
+I am Tornier, an illustrator trying to develop games.
+There is still much to learn about 3DCG, any suggestion is appreciated!
 
 ## Technical Art  
 - [Custom Celshading models for UnrealEngine](https://github.com/DWTornier/UnrealEngine) (You have to join [Epic Games](github.com/EpicGames) to access it)  
