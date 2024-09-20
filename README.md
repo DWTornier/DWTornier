@@ -24,7 +24,7 @@ There is still much to learn about 3DCG, any suggestion is appreciated!
 -----
 ## My Skills
 - Proficient: Anime Style Illustration(Photoshop, Painter Tool SAI, Clip Studio Paint, Procreate, etc.)
-- Intermediate: Graphic Design, Concept Art, Cinema 4D, Blender, Unity, UnrealEngine, C#, C++, Python, VRoid Studio
+- Intermediate: Graphic Design, Concept Art, Cinema 4D, Blender, Unity, UnrealEngine, C#, C++, Python, VRoid Studio, GLSL, HLSL, Cg
 - Beginner: Substance Painter, Marvelous Designer, ZBrush, AutoCAD, Revit
 ## Contact
 - Email: dwtornier@gmail.com
