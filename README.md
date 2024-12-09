@@ -2,7 +2,7 @@
 # Profile  
 
  
-I am Tornier, an illustrator trying to develop games.  
+I am Tornier, tech art but I like to draw.  
 There is still much to learn about 3DCG, any suggestion is appreciated!
 
 ## Technical Art  
